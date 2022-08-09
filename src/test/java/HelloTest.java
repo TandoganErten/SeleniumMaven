@@ -3,6 +3,6 @@ public class HelloTest {
 
 
         System.out.println("hello test");
-
+        System.out.println("about to share project on github");
     }
 }
